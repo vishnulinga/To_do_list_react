@@ -1,0 +1,18 @@
+table,tr,th,td{
+   border-collapse: collapse;
+    border: 2px solid black;
+    color:orange;text-align: center;;
+}
+td{
+    color:red;
+}
+
+body{
+    background-color: cornsilk;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+h1{
+    text-align: center;
+    color:green
+}
